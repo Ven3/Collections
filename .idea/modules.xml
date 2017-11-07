@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ACMCoder/ACMCoder.iml" filepath="$PROJECT_DIR$/ACMCoder/ACMCoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NowCode/NowCode.iml" filepath="$PROJECT_DIR$/NowCode/NowCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Others/Others.iml" filepath="$PROJECT_DIR$/Others/Others.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Review/Review.iml" filepath="$PROJECT_DIR$/Review/Review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tools/Tools.iml" filepath="$PROJECT_DIR$/Tools/Tools.iml" />
+    </modules>
+  </component>
+</project>
