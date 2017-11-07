@@ -12,5 +12,6 @@ public class Main {
 
         String str=in.nextLine();
         System.out.println(2);
+        System.out.println("andy");
     }
 }
