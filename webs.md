@@ -25,3 +25,15 @@
 - [牛客](https://www.nowcoder.com/) -- _开发者充电交流平台_
 
 ## __电影__
+
+- [电影天堂](https://www.dy2018.com/) -- _电影,电视剧_
+
+- [哔哩哔哩](https://www.bilibili.com/) -- _二次元,番剧_
+
+- [V电影](https://www.vmovier.com/) -- _感悟人生只需一刻钟, 短片, 优秀广告, 灵感寻找地_
+
+- [美剧天堂](https://www.meijutt.com/) -- _美剧, 美剧, 美剧_
+
+<div style="left:0px;position:fixed; background-color: #f5f5f5; border-radius: 10px;opacity: 0.75;margin-left: 10px">
+    <embed width="100%" height="100%" quality="high"  src="http://chabudai.sakura.ne.jp/blogparts/honehoneclock/honehone_clock_tr.swf" wmode="transparent">
+</div>
