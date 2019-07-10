@@ -34,6 +34,6 @@
 
 - [美剧天堂](https://www.meijutt.com/) -- _美剧, 美剧, 美剧_
 
-<div style="left:0px;position:fixed; background-color: #f5f5f5; border-radius: 10px;opacity: 0.75;margin-left: 10px">
-    <embed width="100%" height="100%" quality="high"  src="http://chabudai.sakura.ne.jp/blogparts/honehoneclock/honehone_clock_tr.swf" wmode="transparent">
-</div>
+## __GitHub收藏__
+
+- [Java Guide](https://github.com/Snailclimb/JavaGuide) -- _Java向导, 学习_
