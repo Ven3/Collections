@@ -12,13 +12,11 @@
 
 - [小不点](https://www.xiaobd.net/) -- _磁力搜索_
 
-- [老司机导航](https://www.giffox.com/) -- _国内外各类网站导航, 已分类_
-
 ## __充电__
 
 - [GitHub](https://github.com)  -- _全球最大代码托管平台, 开源资源分享交流_
 
-- [Java Guide](https://github.com/Snailclimb/JavaGuide) -- _Java向导, 学习_
+- [Java Guide](https://github.com/Snailclimb/JavaGuide) -- _Java向导, 学习资源_
 
 - [菜鸟教程](https://www.runoob.com/) -- _各种技术入门基础, 免费教程, 包括Java, Mysql, Html, jQuery, C++/C#/C等_
 
@@ -36,15 +34,11 @@
 
 - [V电影](https://www.vmovier.com/) -- _感悟人生只需一刻钟, 短片, 优秀广告, 灵感寻找地_
 
-## __GitHub收藏__
-
-- [Java Guide](https://github.com/Snailclimb/JavaGuide) -- _Java向导, 学习资源_
-
 ## __软件__
 
-<img width="20px" src='https://www.snipaste.com/img/logo.svg' > [Snipaste](https://www.snipaste.com/) -- _截图贴图软件_
+<img width="20px" src='https://www.snipaste.com/img/logo.svg' > [Snipaste](https://www.snipaste.com/) -- _截图贴图软件, 非常好用的截图软件_
 
-<img width="20px" src="https://windows-cdn.softpedia.com/screenshots/ico/QuickLook-xupefei.png" > [QuickLook](https://pooi.moe/QuickLook/) -- _按下空格键快速预览文件_
+<img width="20px" src="https://windows-cdn.softpedia.com/screenshots/ico/QuickLook-xupefei.png" > [QuickLook](https://pooi.moe/QuickLook/) -- _按下空格键即可快速预览文件, 支持超多文件格式_
 
 <img width="20px" src="https://www.voidtools.com/e2.png"> [Everything](https://www.voidtools.com/zh-cn/) -- _搜索电脑中的资源_
 
@@ -54,4 +48,6 @@
 
 <img width="20px" src="https://code.visualstudio.com/favicon.ico"> [VS Code](https://code.visualstudio.com/) -- _微软特强大文本编辑器, 支持各种插件_
 
-<img width="20px" src="https://www.editplus.com/favicon.ico"> [Edit Plus](https://www.editplus.com/) -- _轻量级, 小巧的文本编辑器_
+<img width="20px" src="https://www.editplus.com/favicon.ico"> [Edit Plus](https://www.editplus.com/) -- _轻量级, 小巧, 超好用的文本编辑器_
+
+<img width="20px" src="https://raw.githubusercontent.com/b3log/baidu-netdisk-downloaderx/master/bnd2/react/public/logo.png"> [BND2](https://github.com/b3log/baidu-netdisk-downloaderx) -- _第三方百度网盘高速下载工具_
