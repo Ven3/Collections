@@ -51,3 +51,5 @@
 <img width="20px" src="https://www.editplus.com/favicon.ico"> [Edit Plus](https://www.editplus.com/) -- _轻量级, 小巧, 超好用的文本编辑器_
 
 <img width="20px" src="https://raw.githubusercontent.com/b3log/baidu-netdisk-downloaderx/master/bnd2/react/public/logo.png"> [BND2](https://github.com/b3log/baidu-netdisk-downloaderx) -- _第三方百度网盘高速下载工具_
+
+<img width="20px" src="http://java-decompiler.github.io/img/Icon_java_64.png"> [JD GUI](http://java-decompiler.github.io/) -- java代码反编译工具
