@@ -6,6 +6,10 @@
 
 - [腾讯镜像](https://mirrors.cloud.tencent.com) -- _开源资源Linux, Apache 等下载_
 
+- [清华镜像](https://mirrors.tuna.tsinghua.edu.cn) -- _清华大学开源软件镜像下载_
+
+
+
 - [站长工具](http://tool.chinaz.com) -- _网站查询, 端口扫描, 文字加密解密等_
 
 - [磁力猫](https://www.cilimao.email/) -- _磁力链搜索_
@@ -52,4 +56,4 @@
 
 <img width="20px" src="https://raw.githubusercontent.com/b3log/baidu-netdisk-downloaderx/master/bnd2/react/public/logo.png"> [BND2](https://github.com/b3log/baidu-netdisk-downloaderx) -- _第三方百度网盘高速下载工具_
 
-<img width="20px" src="http://java-decompiler.github.io/img/Icon_java_64.png"> [JD GUI](http://java-decompiler.github.io/) -- java代码反编译工具
+<img width="20px" src="http://java-decompiler.github.io/img/Icon_java_64.png"> [JD GUI](http://java-decompiler.github.io/) -- _java代码反编译工具_
