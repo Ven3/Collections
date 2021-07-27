@@ -1,59 +1,118 @@
-# Collections
+# 收藏夹
 
-## __工具__
+## **综合导航**
+---
 
-- [MSDN I Tell YOu](http://msdn.itellyou.cn/) -- _Windows系统,Office等资源下载_
+<img width='16px' src='https://yunyouni.com/static/favicon2.png'>[云有你](https://yunyouni.com/) -- 云有你导航
 
-- [腾讯镜像](https://mirrors.cloud.tencent.com) -- _开源资源Linux, Apache 等下载_
+<img width='20px' src='http://ilxdh.com/favicon.ico'>[龙轩](http://ilxdh.com/)  -- 龙轩导航
 
-- [清华镜像](https://mirrors.tuna.tsinghua.edu.cn) -- _清华大学开源软件镜像下载_
+<img width='20px' src='https://search.chongbuluo.com/favicon.ico'>[虫部落](https://search.chongbuluo.com/) -- 资源搜索
+
+## **充电**
+---
+
+[GitHub](https://github.com)  -- 全球最大代码托管平台, 开源资源分享交流
+
+[Gitee](https://gitee.com/)  -- 国内代码托管平台, 开源资源分享交流, 
+
+[Java Guide](https://github.com/Snailclimb/JavaGuide) -- Java向导, 学习资源
+
+[菜鸟教程](https://www.runoob.com/) -- 各种技术入门基础, 免费教程, 包括Java, Mysql, Html, jQuery, C++/C#/C等
+
+[W3School](http://www.w3school.com.cn) -- 前端技术学习, HTML,CSS,JavaScript等
+
+[牛客](https://www.nowcoder.com/) -- 开发者充电交流平台
+
+
+## **Videos**
+---
+
+[电影天堂](https://www.dy2018.com/) -- 电影,电视剧
+
+[美剧天堂](https://www.meijutt.com/) -- 美剧, 美剧, 美剧
+
+[哔哩哔哩](https://www.bilibili.com/) -- B站, 二次元,番剧
+
+[V电影](https://www.vmovier.com/) -- 感悟人生只需一刻钟, 短片, 优秀广告, 灵感寻找地
+
+
+## **软件**
+---
+
+<img width="20px" src='https://www.snipaste.com/img/logo.svg'> [Snipaste](https://www.snipaste.com/) -- 截图贴图软件, 非常好用的截图软件
+
+<img width='20px' src='https://www.bandisoft.com/img/bandisoft.png'> [BindZip](http://www.bandisoft.com/bandizip/) -- 很好用的解压工具, 支持命令行
+
+<img width="20px" src="https://windows-cdn.softpedia.com/screenshots/ico/QuickLook-xupefei.png" > [QuickLook](https://pooi.moe/QuickLook/) -- 按下空格键即可快速预览文件, 支持超多文件格式
+
+<img width="20px" src="https://www.voidtools.com/e2.png"> [Everything](https://www.voidtools.com/zh-cn/) -- 搜索电脑中的资源
+
+<img width="20px" src="https://static.realvnc.com/static/107093740/img/favicon.ico"> [VNC Server](https://www.realvnc.com/en/connect/download/vnc/) -- VNC Server远程控制服务端
+
+<img width="20px" src="https://static.realvnc.com/static/107093740/img/favicon.ico"> [VNC Server](https://www.realvnc.com/en/connect/download/viewer/) -- VNC Server远程控制客户端
+
+<img width="20px" src="https://code.visualstudio.com/favicon.ico"> [VS Code](https://code.visualstudio.com/) -- 微软特强大文本编辑器, 支持各种插件
+
+<img width="20px" src="https://www.editplus.com/favicon.ico"> [Edit Plus](https://www.editplus.com/) -- 轻量级, 小巧, 超好用的文本编辑器
+
+<!-- <img width="20px" src="https://raw.githubusercontent.com/b3log/baidu-netdisk-downloaderx/master/bnd2/react/public/logo.png"> [BND2](https://github.com/b3log/baidu-netdisk-downloaderx) -- _第三方百度网盘高速下载工具_ -->
+
+<img width="20px" src="http://java-decompiler.github.io/img/Icon_java_64.png"> [JD GUI](http://java-decompiler.github.io/) -- java代码反编译工具
+
+<img width='20px' src= 'https://www.screentogif.com/logos/favicon.ico'> [ScreenToGif](https://www.screentogif.com/) -- 录频工具, 可以转为gif
 
 
 
-- [站长工具](http://tool.chinaz.com) -- _网站查询, 端口扫描, 文字加密解密等_
+## **For Developers**
+---
 
-- [磁力猫](https://www.cilimao.email/) -- _磁力链搜索_
+### **工具**
 
-- [小不点](https://www.xiaobd.net/) -- _磁力搜索_
+[MSDN I Tell YOu](http://msdn.itellyou.cn/) -- Windows系统,Office等资源下载
 
-## __充电__
+[站长工具](http://tool.chinaz.com) -- 网站查询, 端口扫描, 文字加密解密等
 
-- [GitHub](https://github.com)  -- _全球最大代码托管平台, 开源资源分享交流_
+[JSon格式化](https://www.json.cn/) -- JSON工具箱
 
-- [Java Guide](https://github.com/Snailclimb/JavaGuide) -- _Java向导, 学习资源_
+[草料](https://cli.im/) -- 二维码生成/解析
 
-- [菜鸟教程](https://www.runoob.com/) -- _各种技术入门基础, 免费教程, 包括Java, Mysql, Html, jQuery, C++/C#/C等_
+[ProcessOn](https://www.processon.com/) -- 在线划流程图, 思维导图...
 
-- [W3School](http://www.w3school.com.cn) -- _前端技术学习, HTML,CSS,JavaScript等_
+### **开源镜像站**
+[ [网易](http://mirrors.163.com/) ], 
+[ [腾讯](https://mirrors.cloud.tencent.com/) ], 
+[ [阿里](https://developer.aliyun.com/mirror/) ], 
+[ [东软](http://mirrors.neusoft.edu.cn/) ]
 
-- [牛客](https://www.nowcoder.com/) -- _开发者充电交流平台_
+JDK 8  
+[[Oracle 官网 JavaSE](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)] - 
+[[清华镜像 OpenJDK](https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/)]
 
-## __电影资源__
+MySQL  
 
-- [电影天堂](https://www.dy2018.com/) -- _电影,电视剧_
+[ [MySQL官网](https://dev.mysql.com/downloads/) ], 
+[ [清华镜像](https://mirrors.tuna.tsinghua.edu.cn/mysql/downloads/) ], 
+[ [网易镜像](http://mirrors.163.com/mysql/downloads/) ], 
+[ [腾讯镜像](https://mirrors.cloud.tencent.com/mysql/) ]
 
-- [美剧天堂](https://www.meijutt.com/) -- _美剧, 美剧, 美剧_
+CentOS  
+[ [官网](https://www.centos.org/download/) ], 
+[ [清华镜像](https://mirrors.tuna.tsinghua.edu.cn/centos/) ], 
+[ [网易镜像](http://mirrors.163.com/centos/) ], 
+[ [腾讯镜像](https://mirrors.cloud.tencent.com/centos/) ]
 
-- [哔哩哔哩](https://www.bilibili.com/) -- _二次元,番剧_
+Ubuntu  
+[ [官网](https://www.centos.org/download/) ], 
+[ [清华镜像](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/) ], 
+[ [网易镜像](http://mirrors.163.com/ubuntu-releases/) ], 
+[ [腾讯镜像](https://mirrors.cloud.tencent.com/ubuntu-releases/) ]
 
-- [V电影](https://www.vmovier.com/) -- _感悟人生只需一刻钟, 短片, 优秀广告, 灵感寻找地_
+### **IDE&TOols**
 
-## __软件__
-
-<img width="20px" src='https://www.snipaste.com/img/logo.svg' > [Snipaste](https://www.snipaste.com/) -- _截图贴图软件, 非常好用的截图软件_
-
-<img width="20px" src="https://windows-cdn.softpedia.com/screenshots/ico/QuickLook-xupefei.png" > [QuickLook](https://pooi.moe/QuickLook/) -- _按下空格键即可快速预览文件, 支持超多文件格式_
-
-<img width="20px" src="https://www.voidtools.com/e2.png"> [Everything](https://www.voidtools.com/zh-cn/) -- _搜索电脑中的资源_
-
-<img width="20px" src="https://static.realvnc.com/static/107093740/img/favicon.ico"> [VNC Server](https://www.realvnc.com/en/connect/download/vnc/) -- _VNC Server远程控制服务端_
-
-<img width="20px" src="https://static.realvnc.com/static/107093740/img/favicon.ico"> [VNC Server](https://www.realvnc.com/en/connect/download/viewer/) -- _VNC Server远程控制客户端_
-
-<img width="20px" src="https://code.visualstudio.com/favicon.ico"> [VS Code](https://code.visualstudio.com/) -- _微软特强大文本编辑器, 支持各种插件_
-
-<img width="20px" src="https://www.editplus.com/favicon.ico"> [Edit Plus](https://www.editplus.com/) -- _轻量级, 小巧, 超好用的文本编辑器_
-
-<img width="20px" src="https://raw.githubusercontent.com/b3log/baidu-netdisk-downloaderx/master/bnd2/react/public/logo.png"> [BND2](https://github.com/b3log/baidu-netdisk-downloaderx) -- _第三方百度网盘高速下载工具_
-
-<img width="20px" src="http://java-decompiler.github.io/img/Icon_java_64.png"> [JD GUI](http://java-decompiler.github.io/) -- _java代码反编译工具_
+[ [Idea](https://www.jetbrains.com/idea/download/ )], 
+[ [Eclipse](https://www.eclipse.org/downloads/packages/ )], 
+[ [PyCharm](https://www.jetbrains.com/pycharm/download/ )], 
+[ [VS Code](https://code.visualstudio.com/#alt-downloads) ], 
+[ [Visual Studio](https://visualstudio.microsoft.com/ )], 
+[ [Navicat](https://www.navicat.com.cn/products/navicat-premium) ]
