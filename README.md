@@ -3,11 +3,11 @@
 ## **综合导航**
 ---
 
-<img width='16px' src='https://yunyouni.com/static/favicon2.png'>[云有你](https://yunyouni.com/) -- 云有你导航
+<img width='16px' src='https://yunyouni.com/static/favicon2.png'> [云有你](https://yunyouni.com/) -- 云有你导航
 
-<img width='20px' src='http://ilxdh.com/favicon.ico'>[龙轩](http://ilxdh.com/)  -- 龙轩导航
+<img width='20px' src='http://ilxdh.com/favicon.ico'> [龙轩](http://ilxdh.com/)  -- 龙轩导航
 
-<img width='20px' src='https://search.chongbuluo.com/favicon.ico'>[虫部落](https://search.chongbuluo.com/) -- 资源搜索
+<img width='20px' src='https://search.chongbuluo.com/favicon.ico'> [虫部落](https://search.chongbuluo.com/) -- 资源搜索
 
 ## **充电**
 ---
@@ -16,7 +16,9 @@
 
 [Gitee](https://gitee.com/)  -- 国内代码托管平台, 开源资源分享交流, 
 
-[Java Guide](https://github.com/Snailclimb/JavaGuide) -- Java向导, 学习资源
+[Java Guide](https://github.com/Snailclimb/JavaGuide) -- Java向导, 学习资源 - GitHub
+
+[Java Guide](https://gitee.com/SnailClimb/JavaGuide) -- Java向导, 学习资源 - Gitee
 
 [菜鸟教程](https://www.runoob.com/) -- 各种技术入门基础, 免费教程, 包括Java, Mysql, Html, jQuery, C++/C#/C等
 
@@ -55,8 +57,6 @@
 <img width="20px" src="https://code.visualstudio.com/favicon.ico"> [VS Code](https://code.visualstudio.com/) -- 微软特强大文本编辑器, 支持各种插件
 
 <img width="20px" src="https://www.editplus.com/favicon.ico"> [Edit Plus](https://www.editplus.com/) -- 轻量级, 小巧, 超好用的文本编辑器
-
-<!-- <img width="20px" src="https://raw.githubusercontent.com/b3log/baidu-netdisk-downloaderx/master/bnd2/react/public/logo.png"> [BND2](https://github.com/b3log/baidu-netdisk-downloaderx) -- _第三方百度网盘高速下载工具_ -->
 
 <img width="20px" src="http://java-decompiler.github.io/img/Icon_java_64.png"> [JD GUI](http://java-decompiler.github.io/) -- java代码反编译工具
 
