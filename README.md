@@ -116,3 +116,16 @@ Ubuntu
 [ [VS Code](https://code.visualstudio.com/#alt-downloads) ], 
 [ [Visual Studio](https://visualstudio.microsoft.com/ )], 
 [ [Navicat](https://www.navicat.com.cn/products/navicat-premium) ]
+
+## 其他内容
+
+- [html请画一个小人](https:/www.webhek.com/post/draw-a-stickman.html) -- _请画一个小人_
+- [co六十秒冥想网站](https://www.pixelthoughts.co) -- _六十秒冥想网站_
+- [rHIsa重力的乐趣](https://codepen.io/akm2/full/rHIsa) -- _重力的乐趣_
+- [from_nms彩虹屁文案生成器](https://chp.shadiao.app/?from_nms) -- _彩虹屁文案生成器_
+- [藏头诗在线生成器](https:/cts.chazhi.net/) -- _藏头诗在线生成器_
+- [模拟黑客](http://hackertyper.net/) -- _模拟黑客_
+- [舔狗网站](https:/jlwz.cn/dog/) -- _舔狗网站_
+- [沙雕网友在线唱歌](http:/nodtotherhythm.com/make) -- _沙雕网友在线唱歌_
+- [打字游戏](https:zty.pe/) -- _打字游戏_
+- [解压版打字游戏 ](http://magickeyboard.io/) -- _解压版打字游戏_
