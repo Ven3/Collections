@@ -79,6 +79,8 @@
 
 [ProcessOn](https://www.processon.com/) -- 在线划流程图, 思维导图...
 
+[Jenkins](https://www.jenkins.io/) -- 流水线, 自动化工具
+
 ### **开源镜像站**
 [ [网易](http://mirrors.163.com/) ], 
 [ [腾讯](https://mirrors.cloud.tencent.com/) ], 
