@@ -26,6 +26,8 @@
 
 [牛客](https://www.nowcoder.com/) -- 开发者充电交流平台
 
+[力扣](https://leetcode.com/) -- 力扣力扣, 程序员社交网站
+
 
 ## **Videos**
 ---
@@ -36,8 +38,9 @@
 
 [哔哩哔哩](https://www.bilibili.com/) -- B站, 二次元,番剧
 
-[V电影](https://www.vmovier.com/) -- 感悟人生只需一刻钟, 短片, 优秀广告, 灵感寻找地
+[V电影](https://www.vmovier.com/) -- 感悟人生只需一刻钟, 短片, 优秀广告, 灵感寻找地 - 现在叫场库
 
+[新片场](https://www.xinpianchang.com/) -- 感悟人生只需一刻钟, 短片, 优秀广告, 灵感寻找地
 
 ## **软件**
 ---
