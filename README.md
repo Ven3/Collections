@@ -85,9 +85,18 @@
 [ [阿里](https://developer.aliyun.com/mirror/) ], 
 [ [东软](http://mirrors.neusoft.edu.cn/) ]
 
-JDK 8  
-[[Oracle 官网 JavaSE](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)] - 
-[[清华镜像 OpenJDK](https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/)]
+Java  
+Java 8
+[[Oracle JavaSE](https://www.oracle.com/java/technologies/downloads/#java8)] - 
+[[清华镜像 OpenJDK](https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/8/)]
+
+Java 11
+[[Oracle JavaSE](https://www.oracle.com/java/technologies/downloads/#java11)] - 
+[[清华镜像 OpenJDK](https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/11/)]
+
+Java 16
+[[Oracle JavaSE](https://www.oracle.com/java/technologies/downloads/#java16)] - 
+[[清华镜像 OpenJDK](https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/16/)]
 
 MySQL  
 
