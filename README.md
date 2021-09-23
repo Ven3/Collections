@@ -70,6 +70,12 @@
 # **For Developers**
 ---
 
+## **开源镜像站**
+[ [网易](http://mirrors.163.com/) ], 
+[ [腾讯](https://mirrors.cloud.tencent.com/) ], 
+[ [阿里](https://developer.aliyun.com/mirror/) ], 
+[ [东软](http://mirrors.neusoft.edu.cn/) ]
+
 ## **工具**
 
 [MSDN I Tell YOu](http://msdn.itellyou.cn/) -- Windows系统,Office等资源下载
@@ -84,13 +90,7 @@
 
 [Jenkins](https://www.jenkins.io/) -- 流水线, 自动化工具
 
-### **开源镜像站**
-[ [网易](http://mirrors.163.com/) ], 
-[ [腾讯](https://mirrors.cloud.tencent.com/) ], 
-[ [阿里](https://developer.aliyun.com/mirror/) ], 
-[ [东软](http://mirrors.neusoft.edu.cn/) ]
-
-## **IDE&Tools&Env&Sys**
+## **IDE&Env&Sys**
 
 [ [Idea](https://www.jetbrains.com/idea/download/ )], 
 [ [Eclipse](https://www.eclipse.org/downloads/packages/ )], 
