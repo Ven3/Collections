@@ -1,6 +1,6 @@
 # 收藏夹
 
-## **综合导航**
+# **综合导航**
 ---
 
 <img width='16px' src='https://yunyouni.com/static/favicon2.png'> [云有你](https://yunyouni.com/) -- 云有你导航
@@ -9,7 +9,7 @@
 
 <img width='20px' src='https://search.chongbuluo.com/favicon.ico'> [虫部落](https://search.chongbuluo.com/) -- 资源搜索
 
-## **充电**
+# **充电**
 ---
 
 [GitHub](https://github.com)  -- 全球最大代码托管平台, 开源资源分享交流
@@ -29,7 +29,7 @@
 [力扣](https://leetcode.com/) -- 力扣力扣, 程序员社交网站
 
 
-## **Videos**
+# **Videos**
 ---
 
 [电影天堂](https://www.dy2018.com/) -- 电影,电视剧
@@ -42,7 +42,7 @@
 
 [新片场](https://www.xinpianchang.com/) -- 感悟人生只需一刻钟, 短片, 优秀广告, 灵感寻找地
 
-## **软件**
+# **软件**
 ---
 
 <img width="20px" src='https://www.snipaste.com/img/logo.svg'> [Snipaste](https://www.snipaste.com/) -- 截图贴图软件, 非常好用的截图软件
@@ -67,10 +67,10 @@
 
 
 
-## **For Developers**
+# **For Developers**
 ---
 
-### **工具**
+## **工具**
 
 [MSDN I Tell YOu](http://msdn.itellyou.cn/) -- Windows系统,Office等资源下载
 
@@ -89,6 +89,15 @@
 [ [腾讯](https://mirrors.cloud.tencent.com/) ], 
 [ [阿里](https://developer.aliyun.com/mirror/) ], 
 [ [东软](http://mirrors.neusoft.edu.cn/) ]
+
+## **IDE&Tools&Env&Sys**
+
+[ [Idea](https://www.jetbrains.com/idea/download/ )], 
+[ [Eclipse](https://www.eclipse.org/downloads/packages/ )], 
+[ [PyCharm](https://www.jetbrains.com/pycharm/download/ )], 
+[ [VS Code](https://code.visualstudio.com/#alt-downloads) ], 
+[ [Visual Studio](https://visualstudio.microsoft.com/ )], 
+[ [Navicat](https://www.navicat.com.cn/products/navicat-premium) ]
 
 Java  
 Java 8
@@ -121,18 +130,9 @@ Ubuntu
 [ [清华镜像](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/) ], 
 [ [网易镜像](http://mirrors.163.com/ubuntu-releases/) ], 
 [ [腾讯镜像](https://mirrors.cloud.tencent.com/ubuntu-releases/) ]
+# 其他内容
 
-### **IDE&TOols**
-
-[ [Idea](https://www.jetbrains.com/idea/download/ )], 
-[ [Eclipse](https://www.eclipse.org/downloads/packages/ )], 
-[ [PyCharm](https://www.jetbrains.com/pycharm/download/ )], 
-[ [VS Code](https://code.visualstudio.com/#alt-downloads) ], 
-[ [Visual Studio](https://visualstudio.microsoft.com/ )], 
-[ [Navicat](https://www.navicat.com.cn/products/navicat-premium) ]
-
-## 其他内容
-
+来源 [用11个整活网站，彻底击垮“无聊”](https://www.bilibili.com/video/BV1f44y1k7SW)
 - [请画一个小人](https://www.webhek.com/post/draw-a-stickman.html) -- _请画一个小人_
 - [六十秒冥想网站](https://www.pixelthoughts.co) -- _六十秒冥想网站_
 - [重力的乐趣](https://codepen.io/akm2/full/rHIsa) -- _重力的乐趣_
@@ -143,3 +143,8 @@ Ubuntu
 - [沙雕网友在线唱歌](http://nodtotherhythm.com/make) -- _沙雕网友在线唱歌_
 - [打字游戏](https://zty.pe/) -- _打字游戏_
 - [解压版打字游戏 ](http://magickeyboard.io/) -- _解压版打字游戏_
+
+# 关于
+
+各种网站导航   
+
