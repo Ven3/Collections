@@ -45,7 +45,9 @@
 ## **软件**
 ---
 
-<img width="20px" src='https://www.snipaste.com/img/logo.svg'> [Snipaste](https://www.snipaste.com/) -- 截图贴图软件, 非常好用的截图软件
+<img width="20px" src='https://www.snipaste.com/img/logo.svg'> [Snipaste](https://www.snipaste.com/) -- 截图贴图软件, 非常好用的截图软件  
+
+<img width='20px' src='https://nakka.com/image/nakka.svg'> [CLCL](https://nakka.com/soft/clcl/index_eng.html) -- 剪切板增强工具, 可以记录很多复制的内容  
 
 <img width='20px' src='https://www.bandisoft.com/img/bandisoft.png'> [BindZip](http://www.bandisoft.com/bandizip/) -- 很好用的解压工具, 支持命令行
 
@@ -143,3 +145,10 @@ Ubuntu
 - [沙雕网友在线唱歌](http://nodtotherhythm.com/make) -- _沙雕网友在线唱歌_
 - [打字游戏](https://zty.pe/) -- _打字游戏_
 - [解压版打字游戏 ](http://magickeyboard.io/) -- _解压版打字游戏_
+
+
+
+## 部分资源来源
+
+https://www.bilibili.com/video/BV1f44y1k7SW
+https://www.zhihu.com/question/293309623/answer/2036874371
