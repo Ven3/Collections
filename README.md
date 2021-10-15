@@ -16,10 +16,6 @@
 
 [Gitee](https://gitee.com/)  -- 国内代码托管平台, 开源资源分享交流, 
 
-[Java Guide](https://github.com/Snailclimb/JavaGuide) -- Java向导, 学习资源 - GitHub
-
-[Java Guide](https://gitee.com/SnailClimb/JavaGuide) -- Java向导, 学习资源 - Gitee
-
 [菜鸟教程](https://www.runoob.com/) -- 各种技术入门基础, 免费教程, 包括Java, Mysql, Html, jQuery, C++/C#/C等
 
 [W3School](http://www.w3school.com.cn) -- 前端技术学习, HTML,CSS,JavaScript等
@@ -132,6 +128,7 @@ Ubuntu
 [ [VS Code](https://code.visualstudio.com/#alt-downloads) ], 
 [ [Visual Studio](https://visualstudio.microsoft.com/ )], 
 [ [Navicat](https://www.navicat.com.cn/products/navicat-premium) ]
+[ [DBeaver](https://dbeaver.io/download/) ]
 
 ## 其他内容
 
