@@ -82,6 +82,8 @@
 
 [Jenkins](https://www.jenkins.io/) -- 流水线, 自动化工具
 
+[Win10 App 下载](https://store.rg-adguard.net/)  --  下载Windows应用商店的appbundle文件
+
 ### **开源镜像站**
 [ [网易](http://mirrors.163.com/) ], 
 [ [腾讯](https://mirrors.cloud.tencent.com/) ], 
@@ -120,7 +122,7 @@ Ubuntu
 [ [网易镜像](http://mirrors.163.com/ubuntu-releases/) ], 
 [ [腾讯镜像](https://mirrors.cloud.tencent.com/ubuntu-releases/) ]
 
-### **IDE&TOols**
+### **IDE&Tools**
 
 [ [Idea](https://www.jetbrains.com/idea/download/ )], 
 [ [Eclipse](https://www.eclipse.org/downloads/packages/ )], 
