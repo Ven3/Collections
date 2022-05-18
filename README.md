@@ -91,15 +91,15 @@
 [ [东软](http://mirrors.neusoft.edu.cn/) ]
 
 Java  
-Java 8
+Java 8  
 [[Oracle JavaSE](https://www.oracle.com/java/technologies/downloads/#java8)] - 
 [[清华镜像 OpenJDK](https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/8/)]
 
-Java 11
+Java 11  
 [[Oracle JavaSE](https://www.oracle.com/java/technologies/downloads/#java11)] - 
 [[清华镜像 OpenJDK](https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/11/)]
 
-Java 16
+Java 16  
 [[Oracle JavaSE](https://www.oracle.com/java/technologies/downloads/#java16)] - 
 [[清华镜像 OpenJDK](https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/16/)]
 
